@@ -3,7 +3,7 @@
   "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mayur-jaiswal.github.io/millets",
+  "homepage": "https://mayur-jaiswal.github.io/millets-frontend",
 
   "dependencies": {
     "@fullcalendar/daygrid": "^6.1.15",
