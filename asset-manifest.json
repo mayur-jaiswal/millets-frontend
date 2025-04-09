@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/millets-frontend/static/css/main.c4060b96.css",
+    "main.js": "/millets-frontend/static/js/main.ff9ba5f3.js",
+    "static/media/default-profile-icon.jpg": "/millets-frontend/static/media/default-profile-icon.d204f634c5b21743cdd4.jpg",
+    "index.html": "/millets-frontend/index.html",
+    "main.c4060b96.css.map": "/millets-frontend/static/css/main.c4060b96.css.map",
+    "main.ff9ba5f3.js.map": "/millets-frontend/static/js/main.ff9ba5f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4060b96.css",
+    "static/js/main.ff9ba5f3.js"
+  ]
+}
